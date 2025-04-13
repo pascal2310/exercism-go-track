@@ -1,0 +1,28 @@
+go 1.24.2
+
+use (
+	./airport-robot
+	./annalyns-infiltration
+	./bird-watcher
+	./blackjack
+	./booking-up-for-beauty
+	./card-tricks
+	./cars-assemble
+	./chessboard
+	./elons-toys
+	./gross-store
+	./hello-world
+	./lasagna
+	./logs-logs-logs
+	./sorting-room
+	./lasagna-master
+	./need-for-speed
+	./party-robot
+	./vehicle-purchase
+	./weather-forecast
+	./welcome-to-tech-palace
+	./the-farm
+	./election-day
+	./census
+	./interest-is-interesting
+)
